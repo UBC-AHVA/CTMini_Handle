@@ -1,6 +1,6 @@
 ## Festool T-Loc Cleats, CT Mini Handle and Mount Plate
 
-###Files and plans for Festool TLoc compatible accessories
+### Files and plans for Festool TLoc compatible accessories
 
 Ready-to-print files and plans to fabricate all the pieces needed to make an accessory handle for the Festool CT Mini and other compatible dust collectors.
 
