@@ -4,7 +4,7 @@
 
 Ready-to-print files and plans to fabricate all the pieces needed to make an accessory handle for the Festool CT Mini and other compatible dust collectors.
 
-![Banner]('images/banner.png')
+![Banner](images/banner.png)
 
 Printed parts should be 100% infill, PLA is adequate. All printed parts sized for ¾" EMT tubing. Build files are included so bracket sockets can be resized parametrically for whatever material you have on hand. All parts should be secured with screws, after predrilling. Cut list for tube or dowel material is:
   - Risers: 2 x 400mm
